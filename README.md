@@ -10,9 +10,9 @@ It supports many libraries and frameworks
 Python is an open source programming language
 Numpy, Pandas and Scikit learn
 
-Learning Objective
+Learning Objective:
 The main objective here is to get started with the Python programming language. Basics of Python is shown here with appropriate examples. So let's get started.
 
-Audience
+Audience:
 Freshers/ beginners
 Anyone who wants to get started with Python language.
